@@ -1,2 +1,1 @@
-# feedback-management-sys
-feedback management system project
+# Teacher-Student-Feedback-System
